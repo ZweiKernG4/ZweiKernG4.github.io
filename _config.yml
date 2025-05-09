@@ -1,0 +1,5 @@
+remote_theme: "ZweiKernG4/jekyll-terminal-theme"
+
+css: assets/css
+js: assets/js
+images: assets/images
