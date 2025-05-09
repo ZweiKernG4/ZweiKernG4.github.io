@@ -53,5 +53,5 @@ Hinter vielen Produkten stehen Geschichten:
 
 ---
 
-© 2025 ZweiKern G4 – Alle Rechte vorbehalten.
+© 2025 ZweiKern G4 - Tech von Gestern → Meinung von Heute
 
